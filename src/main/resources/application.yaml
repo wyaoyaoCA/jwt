@@ -1,0 +1,3 @@
+jwt:
+  key: wangyaoyao
+  ttl: 60000
